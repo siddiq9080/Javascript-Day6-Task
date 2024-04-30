@@ -6,4 +6,4 @@
 
 <p>Integrated with .html file, refresh once you will get all the output</p>
 
-<p>https://benevolent-palmier-dc6c90.netlify.app/</p>
+<p> Here Netlify deployed link :  https://benevolent-palmier-dc6c90.netlify.app/</p>
