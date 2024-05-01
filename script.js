@@ -71,5 +71,5 @@ request.onload = function () {
   // Extract country names
   const countryNames = countriesWithUSD.map((country) => country.name.common);
 
-  console.log(countryNames);
+  console.log("US Dollars country",countryNames);
 };
